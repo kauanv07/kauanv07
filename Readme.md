@@ -1,8 +1,8 @@
 <h1 align="left" size="40px">oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu me chamo kauan e sou iniciante em desenvolvimento web!</h1>
 
 <div align="center">
-<img width="300em" src="https://github-readme-stats.vercel.app/api?username=kauanv07&show_icons=true&theme=vision-friendly-dark" alt="kauanv07 statisticas"/>
-<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanv07&layout=compact&theme=vision-friendly-dark" alt="Linguagens que utilizo"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauanv07&show_icons=true&theme=vision-friendly-dark" alt="kauanv07 statisticas"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanv07&layout=compact&theme=vision-friendly-dark" alt="Linguagens que utilizo"/>
 </div>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
