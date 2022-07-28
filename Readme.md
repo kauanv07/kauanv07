@@ -26,7 +26,4 @@
 <a href="https://www.instagram.com/kauanvale/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-kauanv07-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://replit.com/@kauan07" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-kauanv07-05122A?style=flat&logo=replit" alt="youtube"/>
-</a>
 </p>
